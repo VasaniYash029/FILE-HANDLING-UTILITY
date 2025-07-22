@@ -14,7 +14,7 @@
 
 **DESCRIPTION**:
 
-# FileHandlingUtility Class Description
+## FileHandlingUtility Class Description
 
 The `FileHandlingUtility` class is a Java program designed to perform basic file operations, including writing, appending, reading, and modifying text files. It provides a robust and user-friendly interface for handling text files with proper error handling, making it suitable for basic file manipulation tasks. The class includes four core methods for file operations and a main method that serves as an interactive console-based interface to demonstrate their usage. Below is a detailed explanation of the class, its methods, and its functionality.
 
@@ -68,5 +68,7 @@ In summary, the `FileHandlingUtility` class is a versatile and reliable tool for
 
 **OUTPUT**:
 
-<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/5bd8339c-c662-4093-824a-3d1924d6a22d" />
 <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/b5956396-646a-4d3b-8153-9fbfa5b7e216" />
+
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/5bd8339c-c662-4093-824a-3d1924d6a22d" />
